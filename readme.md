@@ -30,7 +30,7 @@
 Неіснуючий
 
 ```
-квантовий процесор NVIDIA GPT-12
+nonexistentpattern
 ```
 
 ---
@@ -46,7 +46,7 @@
 Неіснуючий
 
 ```
-квантовий процесор NVIDIA GPT-12
+nonexistentpattern
 ```
 
 ---
