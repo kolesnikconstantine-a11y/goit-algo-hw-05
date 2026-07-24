@@ -46,7 +46,7 @@ nonexistentpattern
 Неіснуючий
 
 ```
-nonexistentpattern
+nonexistent pattern for benchmarking
 ```
 
 ---
